@@ -27,7 +27,7 @@ const CONFIG = {
 
 	// Weather
 	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
-	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
+	weatherIcons: 'White', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
@@ -134,31 +134,31 @@ const CONFIG = {
 
 	// First Links Container
 	firstlistsContainer: [
-		{
-			icon: 'music',
-			id: '1',
-			links: [
-				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-			],
-		},
+		//{
+		//	icon: 'music',
+		//	id: '1',
+		//	links: [
+		//		{
+		//			name: 'Inspirational',
+		//			link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+		//		},
+		//		{
+		//			name: 'Classic',
+		//			link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+		//		},
+		//		{
+		//			name: 'Oldies',
+		//			link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+		//		},
+		//		{
+		//			name: 'Rock',
+		//			link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+		//		},
+		//	],
+		//},
 		{
 			icon: 'coffee',
-			id: '2',
+			id: '1',
 			links: [
 				{
 					name: 'Linkedin',
